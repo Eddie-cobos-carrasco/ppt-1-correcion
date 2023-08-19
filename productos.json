@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "title": "Nuevo Producto",
+    "description": "Descripción del producto",
+    "code": "ABC123",
+    "price": 19.99,
+    "status": true,
+    "stock": 100,
+    "category": "Electrónica",
+    "thumbnails": []
+  },
+  {
+    "id": "2",
+    "title": "Amogus",
+    "description": "SUSSY BAKA",
+    "code": "666",
+    "price": 69,
+    "status": false,
+    "stock": 2,
+    "category": "Killer",
+    "thumbnails": []
+  }
+]
